@@ -20,7 +20,7 @@ Please cite the following information:
 
 ## Demo
 
-There is a demo in `GMultiNMF/demo_digit.m` working for hand-written digits recognition. See releases to download the full demo with dataset.
+There is a demo in `GMultiNMF/demo_digit.m` working for hand-written digits recognition. Go to releases to download the full paper and the demo dataset.
 
 ## Results
 
