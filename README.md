@@ -8,7 +8,7 @@ Motivated by manifold learning and multi-view Non-negative Matrix Factorization 
 
 Please cite the following information:
 
-```
+```latex
 @inproceedings{wang2015multi,
   title={Feature Extraction via Multi-view Non-negative Matrix Factorization with Local Graph Regularization},
   author={Wang, Zhenfan and Kong, Xiangwei and Fu, Haiyan and Li, Ming and Zhang, Yujia},
@@ -20,7 +20,7 @@ Please cite the following information:
 
 ## Demo
 
-There is a demo in `GMultiNMF/demo_digit.m` working for hand-written digits recognition. Go to releases to download the full paper and the demo dataset.
+There is a demo in `GMultiNMF/demo_digit.m` working for hand-written digits recognition. You may see releases to access the full paper and download the demo dataset.
 
 ## Results
 
