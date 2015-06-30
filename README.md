@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Codes for __Feature Extraction via Multi-view Non-negative Matrix Factorization with Local Graph Regularization__. 
+Codes for [__Feature Extraction via Multi-view Non-negative Matrix Factorization with Local Graph Regularization__](https://github.com/DUT-DIPLab/Graph-Multi-NMF-Feature-Clustering/files/389/ICIP_2015_wang.pdf). 
 
 Motivated by manifold learning and multi-view Non-negative Matrix Factorization (NMF), we introduce a novel feature extraction method via multi-view NMF with local graph regularization, where the inner-view relatedness between data is taken into consideration. We propose the matrix factorization objective function by constructing a nearest neighbor graph to integrate local geometrical information of each view and apply two iterative updating rules to effectively solve the optimization problem.
 
